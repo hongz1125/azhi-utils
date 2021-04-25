@@ -1,0 +1,19 @@
+{
+  "name": "zhi-utils",
+  "version": "1.0.0",
+  "description": "zhi function",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/hongz1125/zhi-utils.git"
+  },
+  "author": "hongz1125@qq.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hongz1125/zhi-utils/issues"
+  },
+  "homepage": "https://github.com/hongz1125/zhi-utils#readme"
+}

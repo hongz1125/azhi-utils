@@ -1,2 +1,0 @@
-# zhi-utils
-zhi-function
